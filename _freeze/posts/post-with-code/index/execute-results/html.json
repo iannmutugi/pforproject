@@ -1,0 +1,15 @@
+{
+  "hash": "341851846f3ea6b3a8e3fac4ea03c03e",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Aalysis\"\nauthor: \"Ian Mutugi\"\ndate: \"2026-09-23\"\ncategories: [ code, analysis,r]\nimage: \"image.jpg\"\n---\n\nThis was a project.u can find it [here](demolandscape.com/lander?oref=https%3A%2F%2Fwww.bing.com%2F){target='_blank'}\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
